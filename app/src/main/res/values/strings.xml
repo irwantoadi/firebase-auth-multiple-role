@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Auth Multiple Role</string>
+    <string name="hai_anda_berhasil_login_sebagai_admin">Hai, Anda berhasil login sebagai Admin</string>
+    <string name="hai_anda_berhasil_login_sebagai_dosen">Hai, Anda berhasil login sebagai dosen</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="back">Back</string>
+</resources>

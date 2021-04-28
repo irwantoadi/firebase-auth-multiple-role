@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661087888024",
+    "project_id": "fir-auth-multiple-role",
+    "storage_bucket": "fir-auth-multiple-role.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661087888024:android:4422c7a0941d7bca5da6ed",
+        "android_client_info": {
+          "package_name": "com.goprojectstudio.firebaseauthmultiplerole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661087888024-js49g2elfkdjmjrkrd9oggdief28ts26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUYsiiw-rJhNux_zGTWePgEmsKnMyuik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661087888024-js49g2elfkdjmjrkrd9oggdief28ts26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
